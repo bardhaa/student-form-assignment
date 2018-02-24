@@ -1,0 +1,44 @@
+
+table {
+  font-family: Calibri; 
+  color:white; 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  background-color: purple; 
+  border-collapse: collapse; 
+  border: 2px solid navy
+}
+table.inner{
+border: 0px
+
+}
+.name{
+  color: white;
+}
+.name:hover{
+background-color: blue;
+opacity: 0.5;
+
+}
+#first_name{
+color: white;
+
+}
+.E-MAIL{
+  color: white;
+}
+.E-MAIL:hover{
+  background-color: blue;
+  opacity: 0.6;
+}
+h3{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:purple;
+  text-align: center; 
+  text-decoration: underline
+}
